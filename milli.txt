@@ -1,0 +1,48 @@
+Abant Gölü Millî Parkı; Bolu; 10; 1.262
+Ağrı Dağı Millî Parkı; Ağrı, Iğdır; 17; 88.015
+Aladağlar Millî Parkı; Adana, Kayseri, Niğde; 21; 55.064
+Altınbeşik Mağarası Millî Parkı; Antalya; 31; 1.147
+Altındere Vadisi Millî Parkı; Trabzon; 9; 4.468
+Başkomutan Tarihî Millî Parkı; Afyon, Kütahya, Uşak; 8; 34.834
+Beydağları Sahil Millî Parkı; Antalya; 16; 31.166
+Beyşehir Gölü Millî Parkı; Konya; 11; 86.855
+Boğazköy-Alacahöyük Millî Parkı; Çorum; 21; 2.600
+Botan Vadisi Millî Parkı; Siirt; 15; 11.384
+Derebucak Çamlık Mağaraları Millî Parkı; Konya; 7; 1.147
+Dilek Yarımadası-Büyük Menderes Deltası Millî Parkı; Aydın; 19; 27.598
+Gala Gölü Millî Parkı; Edirne; 5; 6.087
+Güllük Dağı Millî Parkı; Antalya; 3; 6.700
+Hakkâri Cilo ve Sat Dağları Millî Parkı; Hakkâri; 26; 27.500
+Hatila Vadisi Millî Parkı; Artvin; 31; 16.944
+Honaz Dağı Millî Parkı; Denizli; 21; 9.429
+Ilgaz Dağı Millî Parkı; Çankırı, Kastamonu; 2; 1.118
+İğneada Longoz Ormanları Millî Parkı; Kırklareli; 13; 3.155
+İstiklâl Yolu Tarihî Millî Parkı; Ankara, Çankırı, Kastamonu; 2; 235
+Kaçkar Dağları Millî Parkı; Artvin, Erzurum, Rize; 31; 52.970
+Karagöl-Sahara Millî Parkı; Artvin; 31; 3.251
+Karatepe-Aslantaş Millî Parkı; Osmaniye; 29; 4.143
+Kazdağı Millî Parkı; Balıkesir; 17; 20.935
+Kızıldağ Millî Parkı; Isparta; 9; 55.106
+Kop Dağı Müdafaası Tarihî Millî Parkı; Bayburt, Erzurum; 15; 6.335
+Kovada Gölü Millî Parkı; Isparta; 3; 6.551
+Köprülü Kanyon Millî Parkı; Antalya; 12; 35.719
+Kuşcenneti Millî Parkı; Balıkesir; 27; 17.058
+Küre Dağları Millî Parkı; Bartın, Kastamonu; 7; 37.753
+Malazgirt Meydan Muharebesi Tarihî Millî Parkı; Muş; 5; 238
+Marmaris Millî Parkı; Muğla; 8; 29.206
+Munzur Vadisi Millî Parkı; Tunceli; 21; 42.674
+Nemrut Dağı Millî Parkı; Adıyaman, Malatya; 7; 13.827
+Nene Hatun Tarihî Millî Parkı; Erzurum; 6; 387
+Sakarya Meydan Muharebesi Tarihî Millî Parkı; Ankara; 8; 13.850
+Saklıkent Millî Parkı; Antalya, Muğla; 6; 1.643
+Sarıçalı Dağı Millî Parkı; Ankara; 28; 1.024
+Sarıkamış-Allahuekber Dağları Millî Parkı; Erzurum, Kars; 19; 22.520
+Soğuksu Millî Parkı; Ankara; 19; 1.186
+Spil Dağı Millî Parkı; İzmir, Manisa; 22; 6.801
+Sultansazlığı Millî Parkı; Kayseri; 17; 24.358
+Tek Tek Dağları Millî Parkı; Şanlıurfa; 29; 19.335
+Troya Tarihî Millî Parkı; Çanakkale; 7; 13.517
+Uludağ Millî Parkı; Bursa; 20; 13.024
+Yedigöller Millî Parkı; Bolu; 29; 1.623
+Yozgat Çamlığı Millî Parkı; Yozgat; 5; 517
+Yumurtalık Lagünü Millî Parkı; Adana; 6; 16.980
